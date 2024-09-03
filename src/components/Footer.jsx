@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="my-6 border-t m-auto border-gray-100 opacity-30"></div>
       <p>{AppText.copyright}</p>
       <div className="flex justify-center mt-2 gap-2">
-        <a href="https://www.instagram.com/thofolio9/" target="_blank">
+        <a href="https://www.instagram.com/mythofolio/" target="_blank">
           <FaInstagramSquare
             size={32}
             className="text-gray-200 hover:scale-110 duration-300 cursor-pointer"
@@ -24,7 +24,7 @@ const Footer = () => {
             className="text-gray-200 hover:scale-110 duration-300 cursor-pointer"
           />
         </a>
-        <a href="https://www.youtube.com/@mythofolio" target="_blank">
+        <a href="https://www.youtube.com/@thofolio" target="_blank">
           <FaYoutubeSquare
             size={32}
             className="text-gray-200 hover:scale-110 duration-300 cursor-pointer"

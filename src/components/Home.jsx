@@ -30,7 +30,7 @@ const Home = () => {
           <button className="bg-primary text-white mr-4 py-2 px-4 transition-all ease-in-out hover:scale-110 hover:bg-primaryDark hover:font-semibold rounded-md duration-500">
             Resume
           </button>
-          <a href="https://www.instagram.com/thofolio9/" target="_blank">
+          <a href="https://www.instagram.com/mythofolio/" target="_blank">
             <FaInstagramSquare
               size={40}
               className="text-gray-200 mr-4 hover:scale-110 hover:text-pink-500 duration-300 cursor-pointer"
@@ -42,7 +42,7 @@ const Home = () => {
               className="text-gray-200 mr-4 hover:scale-110 hover:text-black duration-300 cursor-pointer"
             />
           </a>
-          <a href="https://www.youtube.com/@mythofolio" target="_blank">
+          <a href="https://www.youtube.com/@thofolio" target="_blank">
             <FaYoutubeSquare
               size={40}
               className="text-gray-200 mr-4 hover:scale-110 hover:text-red-600 duration-300 cursor-pointer"
