@@ -24,7 +24,7 @@ const Footer = () => {
             className="text-gray-200 hover:scale-110 duration-300 cursor-pointer"
           />
         </a>
-        <a href="https://www.youtube.com/@thofolio" target="_blank">
+        <a href="https://www.youtube.com/@mythofolio" target="_blank">
           <FaYoutubeSquare
             size={32}
             className="text-gray-200 hover:scale-110 duration-300 cursor-pointer"

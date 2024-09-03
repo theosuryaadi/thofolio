@@ -42,7 +42,7 @@ const Home = () => {
               className="text-gray-200 mr-4 hover:scale-110 hover:text-black duration-300 cursor-pointer"
             />
           </a>
-          <a href="https://www.youtube.com/@thofolio" target="_blank">
+          <a href="https://www.youtube.com/@mythofolio" target="_blank">
             <FaYoutubeSquare
               size={40}
               className="text-gray-200 mr-4 hover:scale-110 hover:text-red-600 duration-300 cursor-pointer"
