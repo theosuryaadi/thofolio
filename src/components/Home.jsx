@@ -8,7 +8,7 @@ import { FaYoutubeSquare } from "react-icons/fa";
 
 const Home = () => {
   return (
-    <div id="home" className="p-6 md:grid md:grid-cols-2 md:px-10">
+    <div id="home" className="p-6 md:grid md:grid-cols-2 md:px-10 xl:px-36">
       <div className="m-auto">
         <h1 className="text-[36px] md:text-[40px] font-bold">
           {AppText.hello}

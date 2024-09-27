@@ -5,7 +5,7 @@ import { FaInstagramSquare, FaMedium, FaYoutubeSquare } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="bg-primaryDark text-center text-white px-4 py-10 ">
+    <div className="bg-primaryDark text-center text-white px-4 py-10 xl:px-36">
       <h1 className="font-bold text-2xl ml-2">{AppText.footerTitle}</h1>
       <p className="mt-2">{AppText.footerDesc}</p>
       <p className="font-bold mt-1">{AppText.footerQuotes}</p>

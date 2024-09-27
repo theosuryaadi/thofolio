@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="p-6 bg-white shadow">
+    <div className="p-6 xl:px-36 bg-white shadow">
       <div className="flex justify-between">
         <div className="flex items-center">
           <img src={logo} className="h-10" alt="logo" />

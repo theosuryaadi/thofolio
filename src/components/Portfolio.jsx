@@ -3,7 +3,7 @@ import { AppText, portfolios } from "../constants";
 
 const Portfolio = () => {
   return (
-    <div id="portfolio" className="py-6">
+    <div id="portfolio" className="py-6 xl:px-36">
       <h1 className="text-center text-[28px] md:text-[36px] font-bold">
         🗃️ {AppText.Portfolio}
       </h1>
